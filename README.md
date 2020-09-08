@@ -1,1 +1,1 @@
-# Food-Ordering-Valid-Database-Connection
+# Food-Ordering-Validation-Database-Connectivity
